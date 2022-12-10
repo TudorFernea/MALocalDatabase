@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stock Watchlist</string>
+    <string name="title_item_detail">Stock Details</string>
+</resources>
